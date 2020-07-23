@@ -1,4 +1,4 @@
-# gensim-song-recommender
+# gensim song recommender
 
 ## Description
 Project based on the implementation of a music recommendation system using Gensim Tool (G2) for the subject "Fundamentos de Sistemas Inteligentes" of the Computer Engineering Degree
